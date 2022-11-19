@@ -23,5 +23,5 @@ public class Book {
     private Long id;
     private String title;
     private LocalDate published;
-    private Integer rate;
+    private Integer rating;
 }
